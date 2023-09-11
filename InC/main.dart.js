@@ -82929,7 +82929,7 @@ return A.fo(A.du(A.a([A.bd(s,s,s,s,s,50,s,s,s),A.bd(s,s,s,s,s,200,s,s,s),A.b1(A.
 $S:56}
 A.LH.prototype={
 J(a){var s=null,r=A.bd(s,s,s,s,s,50,s,s,s),q=A.azs("images/logo.svg",B.k),p=A.bd(s,s,s,s,s,200,s,s,s),o=A.bd(s,s,s,s,s,50,s,s,s),n=A.d5(s,s,B.y,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)
-return A.fo(A.du(A.a([r,q,p,B.Uq,B.hh,B.Us,o,A.bd(s,A.dh(A.b1("Ne surtout pas cliquer",s,s,s,A.dd(s,s,B.LP,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a6u(a),n),s,s,s,s,s,s,s)],t.p),B.C,B.I,B.L),s,s)}}
+return A.fo(A.du(A.a([r,q,p,B.Uq,B.hh,B.Us,o,A.bd(s,A.dh(A.b1("Ne clique pas sur ce bouton",s,s,s,A.dd(s,s,B.LP,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a6u(a),n),s,s,s,s,s,s,s)],t.p),B.C,B.I,B.L),s,s)}}
 A.a6u.prototype={
 $0(){var s=A.atc(new A.a6t(),t.z)
 A.lA(this.a,!1).kW(s)},
