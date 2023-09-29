@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "88a20957409cabfcb817010ba28cb17e",
-"assets/AssetManifest.json": "a0a218fa08ecbe7aaaa56d79a8c51895",
+const RESOURCES = {"assets/AssetManifest.bin": "823fde8870077ff570743ac34e4ba415",
+"assets/AssetManifest.json": "724513955865520761b1c0cebed88e2d",
 "assets/assets/sound/laugh.mp3": "61b0b64ccf46eef0909015c37689a65e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "da8c3d241e718aeb3e090f021cb5df39",
-"assets/images/a.png": "6d912ac40ee5b5c4e79205f9082c8c3e",
 "assets/images/beni.png": "4521358133c407ff5551369bb9f97284",
 "assets/images/beni2.png": "647fa4c06dd8181be9a094999cea4d53",
+"assets/images/greta.jpg": "dbe7e341b66c0e71da9db2f49eddbd9c",
 "assets/images/logo.svg": "4896cedc3bc763e11fad790d579f9dac",
 "assets/NOTICES": "6d9b0d2ee1201060677c271c0e402067",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
@@ -29,10 +29,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "88a20957409cabfcb817010ba28cb17e
 "icons/Icon-512.png": "d9a897e989b43e22d9d6685575c93e83",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "48bb36366e7f68ea7e68b1871d35eb85",
-"/": "48bb36366e7f68ea7e68b1871d35eb85",
+"index.html": "8ecf391b3158838eadc57f4746d17133",
+"/": "8ecf391b3158838eadc57f4746d17133",
 "logo_landwehr.png": "dce551aa2feb706d9ce85841a0f12af8",
-"main.dart.js": "f5121b54c6726197173fde6dfed3d882",
+"main.dart.js": "d47a7986255ba13ee1b4fa6b140831a5",
 "manifest.json": "81437a5f0debbdc054f1054f4f9d3a70",
 "version.json": "05e2b62dd81c091085fe710a5c7b94cf"};
 // The application shell files that are downloaded before a service worker can
