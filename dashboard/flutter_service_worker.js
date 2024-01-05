@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cc6a98c6e6f7b0905ac18797c4dd7aa6
 "assets/AssetManifest.json": "002a856ebf97c8135bedf6c96c54bf4d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
-"assets/images/logo.svg": "4896cedc3bc763e11fad790d579f9dac",
+"assets/images/logo.svg": "b1ab18c39b800e1833f025390b4c05c8",
 "assets/images/s1.jpg": "1a59e8b18619adabf826434d33bf528f",
 "assets/images/s2.jpg": "bf43f221782173e88368496c2147449a",
 "assets/images/s3.jpg": "6515f2967525d393455b863b9c14cee5",
@@ -28,10 +28,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "cc6a98c6e6f7b0905ac18797c4dd7aa6
 "icons/Icon-512.png": "d9a897e989b43e22d9d6685575c93e83",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e32fb6ce7290e865f9611b41acfc3c79",
-"/": "e32fb6ce7290e865f9611b41acfc3c79",
+"index.html": "bccf906efdffd8cbcebdf600461d3b16",
+"/": "bccf906efdffd8cbcebdf600461d3b16",
 "logo_landwehr.png": "dce551aa2feb706d9ce85841a0f12af8",
-"main.dart.js": "f0260d762f958b96b62c11270b15d868",
+"main.dart.js": "589961c44ebf96bc4b786ec3f2721ba6",
 "manifest.json": "e3741e1992064c44052bb18d66945620",
 "version.json": "3d8047da9749df75e88b3481338d082a"};
 // The application shell files that are downloaded before a service worker can
