@@ -90252,7 +90252,7 @@ s($,"aNx","amY",()=>A.axs(0.78)/A.axs(0.9))
 s($,"aRQ","aAu",()=>{var q=t.K
 return new A.aaU(new A.Zi(A.w(q,A.U("aj<br>")),A.w(q,t.V4)))})
 s($,"aRT","aAv",()=>new A.a6T(A.w(t.N,A.U("aj<br?>?(br?)"))))
-s($,"aRo","aAi",()=>A.Bk("https://landwehrfribourg-my.sharepoint.com/personal/dakboard_landwehr_ch/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdakboard%5Flandwehr%5Fch%2FDocuments%2FDakboard%2FNuit%20des%20Rois%202026&ga=1",0,null))
+s($,"aRo","aAi",()=>A.Bk("https://landwehrfribourg-my.sharepoint.com/:f:/g/personal/dakboard_landwehr_ch/IgAU5R-D7bMqTon6MgFWZzOFAcZsdFKFMAOc7mNa2x527Ps",0,null))
 s($,"aPg","ayY",()=>$.XX())
 s($,"aPf","XX",()=>{var q,p,o,n,m,l,k,j,i,h,g=63.66197723675813*A.a_5(50)/100,f=A.aqc(30,50),e=$.a_4[0],d=$.a_4[1],c=$.a_4[2],b=e*0.401288+d*0.650173+c*-0.051461,a=e*-0.250268+d*1.204414+c*0.045854,a0=e*-0.002079+d*0.048952+c*0.953127,a1=A.aEv(0.59,0.69,0.9999999999999998),a2=1-0.2777777777777778*A.aLD((-g-42)/92)
 if(a2>1)a2=1
